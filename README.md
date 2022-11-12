@@ -1,5 +1,7 @@
 # cse210-hilo
-week02 Teach: Designer
+Hi-Lo Game by Marina Kreibring
+timarina1997@yahoo.com
+
 Hilo rules:
 The player starts the game with 300 points.
 Individual cards are represented as a number from 1 to 13.
@@ -11,3 +13,7 @@ The player loses 75 points if they guessed incorrectly.
 If a player reaches 0 points the game is over.
 If a player has more than 0 points they decide if they want to keep playing.
 If a player decides not to play again the game is over.
+
+Program has 2 classes and main function.
+Class Card has 4 methods.
+Class Director also has 4 methods.
